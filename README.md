@@ -15,8 +15,6 @@ In order to submit your homework:
 
 The API that you built yesterday impressed the local museum and they wants you to build a website, for their museum, that uses your API. So for today's project, build a website that uses your API to manage your dinosaur data. 
 
-<iframe src="https://giphy.com/embed/fnmsu2lTw3r1e" width="460" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/artists-on-tumblr-dinosaur-dinosaurs-fnmsu2lTw3r1e">via GIPHY</a></p>
-
 ### Level 1 (basic CRUD) 
 Create a website that manages the dinosaurs:
 
